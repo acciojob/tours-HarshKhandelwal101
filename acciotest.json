@@ -1,4 +1,4 @@
 {
-    "testRepo": "tours-solution",
+    "testRepo": "tour-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
